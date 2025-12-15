@@ -1,6 +1,6 @@
 # StudentPerformanceModel_RegressionAnalysis
 
-### Prepared By: Rueshikesh Patil
+### Prepared By: Rushikesh Patil
 
 ---
 
